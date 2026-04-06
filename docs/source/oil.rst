@@ -72,7 +72,7 @@ Working examples
      - Good (available from aftermarket suppliers)
      - Low
      - Good
-   * - Triethyl acetate
+   * - Triethyl citrate
      - TEC
      - Good (available from chemical suppliers and some DIY cosmetics suppliers)
      - Moderate

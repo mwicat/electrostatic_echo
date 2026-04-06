@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-electrostatic_echo_docs documentation
+Electrostatic Echo
 =====================================
 
 .. toctree::
@@ -11,4 +11,6 @@ electrostatic_echo_docs documentation
    :caption: Contents:
 
    oil
-   medium
+   marek
+   anodizing
+   electropolishing
